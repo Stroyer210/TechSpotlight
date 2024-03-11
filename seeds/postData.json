@@ -1,0 +1,20 @@
+[
+    {
+        "title": "What is DOM in Web Development",
+        "content": "The Document Object Model (DOM) is the data representation of the objects that comprise the structure and content of a document on the web.",
+        "date_created": "3/10/2024",
+        "user_id":1
+    },
+    {
+        "title": "What is a compound assignment",
+        "content": "Compound assignment operators are shortcuts that do a math operation and assignment in one step. For example, x += 1",
+        "date_created": "3/10/2024",
+        "user_id":2
+    },
+    {
+        "title": "What is a concatenation operator",
+        "content": "Concatenation operators join multiple strings into a single string. There are two concatenation operators, + and & . Both carry out the basic concatenation operation, as the following example shows.",
+        "date_created": "3/10/2024",
+        "user_id":3
+    }
+]
