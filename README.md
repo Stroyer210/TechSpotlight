@@ -45,13 +45,13 @@ Now we start the server:
  ---
 This is how the app looks like: 
 
-![example of the app.](images/tech1.png)
+![example of the app.](public/images/tech1.png)
  ---
- ![example of the app.](images/tech2.png)
+ ![example of the app.](public/images/tech2.png)
  ---
- ![example of the app.](images/tech3.png)
+ ![example of the app.](public/images/tech3.png)
  ---
- ![example of the app.](images/tech4.png)
+ ![example of the app.](public/images/tech4.png)
  ---
 ## Credits :email:
 
